@@ -22,3 +22,7 @@ They include:
 [London Underground Annual Entries and Exits](https://russhowd.github.io/tube/)
 
 * Map visualising the number of combined London underground entries and exits at each station from 2008-2016. Move the slider to select the year and watch the station size change based on the number of passengers that went through. 
+
+[London's Historical Blue Plaques](https://russhowd.github.io/blueplaques/)
+
+* Map visualising the blue plaque historcal markers throughout London. Each point on the map identifies the location of a blue plaque, the subject, the provided description, and a link to the subject's Wikipedia page (if it exists). 
