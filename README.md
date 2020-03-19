@@ -26,3 +26,7 @@ They include:
 [London's Historical Blue Plaques](https://russhowd.github.io/blueplaques/)
 
 * Map visualising the blue plaque historcal markers throughout London. Each point on the map identifies the location of a blue plaque, the subject, the provided description, and a link to the subject's Wikipedia page (if it exists). 
+
+[NYC Odor Complaints](https://russhowd.github.io/nyc_odors/)
+
+* An interpolated (Kernel Density Estimate) map visualizing 311 odor complaints throughout NYC. The map gives the end user an understanding of where types of odor complaints (animal-related, food-related, sewage-related, etc) are located.
